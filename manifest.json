@@ -1,0 +1,6 @@
+{
+	"load": [
+		"sample_mod.js",
+		"sample_mod2.js"
+	]
+}
